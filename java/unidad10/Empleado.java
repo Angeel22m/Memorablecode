@@ -1,4 +1,4 @@
-package unidad10;
+
 public abstract class Empleado implements PorPagar{
     /**
      * Primer nombre
