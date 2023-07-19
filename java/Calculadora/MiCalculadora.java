@@ -1,4 +1,4 @@
-package calculadora;
+package Calculadora;
 public class MiCalculadora extends javax.swing.JFrame {
     public float primerNumero;      //variable para almacenar primer valor
     public float segundoNumero;    // variable para almacenar segundo valor
